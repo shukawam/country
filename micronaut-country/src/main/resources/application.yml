@@ -1,0 +1,9 @@
+datasources:
+  default:
+    ocid: ${countryDS.ocid:}
+    walletPassword: ${countryDS.walletPassword:}
+    dialect: ORACLE
+    username: ${countryDS.user:}
+    password: ${countryDS.password:}
+oci.config.profile: DEFAULT
+jpa.default.properties.hibernate.hbm2ddl.auto: update
