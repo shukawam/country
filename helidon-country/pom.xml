@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
     <groupId>me.shukawam</groupId>
-    <artifactId>country</artifactId>
+    <artifactId>helidon-country</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
